@@ -35,22 +35,19 @@ Each skill grants **stats** and/or **effects** as you level up.
 
 <details>
 
-<summary><strong>Combat</strong></summary>
+<summary><strong>Alchemy</strong></summary>
 
-**How to gain XP:** Deal damage to mobs and players\
+**How to gain XP:** Brew potions\
 **Max level:** 50
 
 #### Stats
 
-* **Strength** – Increases melee damage
-* **Crit Chance** – Chance to land a critical hit
-* **Crit Damage** – Increased damage on critical hits
-* **Attack Speed** – Faster attacks
+* **Wisdom** – Increased skill XP gain
 
 #### Effects
 
-* **Serrated Strikes** – Chance to apply Bleed on hit
-* **Strong Impact** – Chance to knock enemies back
+* **Efficient Brewing** – Chance to not consume ingredients
+* **Potent Mixtures** – Increased potion duration
 
 </details>
 
@@ -76,40 +73,59 @@ Each skill grants **stats** and/or **effects** as you level up.
 
 <details>
 
-<summary><strong>Mining</strong></summary>
+<summary><strong>Combat</strong></summary>
 
-**How to gain XP:** Break natural blocks\
+**How to gain XP:** Deal damage to mobs and players\
 **Max level:** 50
 
 #### Stats
 
-* **Defense** – Reduced damage taken
-* **Ferocity** – Chance to deal damage twice
+* **Strength** – Increases melee damage
+* **Crit Chance** – Chance to land a critical hit
+* **Crit Damage** – Increased damage on critical hits
+* **Attack Speed** – Faster attacks
 
 #### Effects
 
-* **Versatile Tools** – Increased pickaxe damage
-* **Spelunking** – Chance for bonus ore drops
-* **Dynamic Mining** – Chance to gain Haste while mining
+* **Serrated Strikes** – Chance to apply Bleed on hit
+* **Strong Impact** – Chance to knock enemies back
 
 </details>
 
 <details>
 
-<summary><strong>Woodcutting</strong></summary>
+<summary>Enchanting</summary>
 
-**How to gain XP:** Break logs\
+**How to gain XP:** Enchant items\
 **Max level:** 50
 
 #### Stats
 
-* **Health** – Increased max health
-* **Strength** – Increased melee damage
+* **Wisdom** – Increased skill XP gain
 
 #### Effects
 
-* **Master Lumberjack** – Chance for double log drops
-* **Craftsmanship** – Chance to not consume axe durability
+* **Arcane Insight** – Reduced enchanting costs
+* **Empowered Enchants** – Slightly stronger enchantments
+
+</details>
+
+<details>
+
+<summary><strong>Exploration</strong></summary>
+
+**How to gain XP:** Travel and discover the world\
+**Max level:** 50
+
+#### Stats
+
+* **Speed** – Increased movement speed
+* **Health** – Increased max health
+
+#### Effects
+
+* **Adventurer's Luck** – Chance to find bonus loot
+* **Endurance** – Reduced travel penalties
 
 </details>
 
@@ -153,55 +169,39 @@ Each skill grants **stats** and/or **effects** as you level up.
 
 <details>
 
-<summary><strong>Alchemy</strong></summary>
+<summary><strong>Mining</strong></summary>
 
-**How to gain XP:** Brew potions\
+**How to gain XP:** Break natural blocks\
 **Max level:** 50
 
 #### Stats
 
-* **Wisdom** – Increased skill XP gain
+* **Defense** – Reduced damage taken
+* **Ferocity** – Chance to deal damage twice
 
 #### Effects
 
-* **Efficient Brewing** – Chance to not consume ingredients
-* **Potent Mixtures** – Increased potion duration
+* **Versatile Tools** – Increased pickaxe damage
+* **Spelunking** – Chance for bonus ore drops
+* **Dynamic Mining** – Chance to gain Haste while mining
 
 </details>
 
 <details>
 
-<summary>Enchanting</summary>
+<summary><strong>Woodcutting</strong></summary>
 
-**How to gain XP:** Enchant items\
+**How to gain XP:** Break logs\
 **Max level:** 50
 
 #### Stats
 
-* **Wisdom** – Increased skill XP gain
-
-#### Effects
-
-* **Arcane Insight** – Reduced enchanting costs
-* **Empowered Enchants** – Slightly stronger enchantments
-
-</details>
-
-<details>
-
-<summary><strong>Exploration</strong></summary>
-
-**How to gain XP:** Travel and discover the world\
-**Max level:** 50
-
-#### Stats
-
-* **Speed** – Increased movement speed
 * **Health** – Increased max health
+* **Strength** – Increased melee damage
 
 #### Effects
 
-* **Adventurer's Luck** – Chance to find bonus loot
-* **Endurance** – Reduced travel penalties
+* **Master Lumberjack** – Chance for double log drops
+* **Craftsmanship** – Chance to not consume axe durability
 
 </details>
