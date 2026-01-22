@@ -2,8 +2,9 @@
 
 ## General
 
-* [ZenithSMP](README.md)
+* [👋 ZenithSMP](README.md)
 * [📑 Rules](general/rules.md)
+* [🖼️ Resource Pack](general/resource-pack.md)
 
 ## Gameplay
 
