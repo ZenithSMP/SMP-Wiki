@@ -27,5 +27,5 @@ Anyone can update the wiki by creating a pull request on our [GitHub](https://gi
 {% endhint %}
 
 {% hint style="info" %}
-IP: mc.zenithsmp.com
+IP: zenithmc.gg
 {% endhint %}
