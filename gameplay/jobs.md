@@ -31,7 +31,7 @@ Jobs pay you money and job XP for things you already do in survival, like mining
 
 ### How pay works
 
-* You can have up to **3 jobs** at the same time.
+* How many jobs you can hold at once depends on your rank. See [Ranks](ranks.md).
 * Every job goes up to **level 200**.
 * Pay goes up by **0.5% per job level**, so a level 200 job pays about double the amounts below.
 * Every extra job you hold lowers your pay by **5%** in all of your jobs. One job pays 100%, two jobs pay 95% each and three jobs pay 90% each.
