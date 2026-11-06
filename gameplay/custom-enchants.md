@@ -18,27 +18,33 @@ layout:
 
 # Custom Enchants
 
+Zenith has 133 custom enchants on top of the vanilla ones. Use `/enchantinfo <enchant>` in game to see the details of any enchant.
+
 {% hint style="info" %}
-This page was generated with the help of AI. Therefore, it may not be completely accurate.
+Numbers written like `5 / 10 / 15` are the values for level I / II / III and so on.
 {% endhint %}
 
-**How to obtain:**
+## How to get them
 
-**Custom**\
-These are the normal custom enchants. You can put as many of these as you want on your items as long as they don't conflict with other enchants.
+The enchanting table and villagers don't give custom enchants. You get them as enchanted books from:
 
-**Special**\
-More powerful and rarer than custom enchants. You can only use one of these per item.
+* **Enchant crates.** An **Enchant Key** opens the Tools, Weapons or Armour crate. A **Special Enchant Key** opens the Special crate. Every crate book is level I.
+* **Chest loot.** Books can turn up in loot chests in structures. Normal enchants go up to level III and special enchants are always level I.
 
-***
+Enchant keys come from voting, the vote shop, daily, weekly and monthly rewards (`/rewards`), the battlepass, fishing contests, rare catches while fishing at spawn, and events and key-alls.
 
-This page lists every custom enchant, grouped by **Type** and **Rarity**. Expand an enchant to see details.
+Combine books of the same level in an anvil to level them up.
 
-The only way to get custom enchants is via the crates. Don't worry, you don't need to pay for them. There are multiple ways to obtain crate keys. These include: Vote & Mythic crates, events, daily rewards and the keyall every 45 minutes. There are 2 crates: Custom and Special
+## Rules
 
-&#x20;
+* **Special** and **Very Special** enchants: only **one** per item.
+* **Spell** enchants: only **one** per item.
+* **Curses** can't be removed with a grindstone.
+* Normal enchants have no limit, as long as they don't conflict with each other.
 
-> Tip: Use your browser search (Ctrl+F) to quickly find an enchant by name.
+{% hint style="success" %}
+Tip: use your browser search (Ctrl+F) to find an enchant by name.
+{% endhint %}
 
 ### Normal Enchants
 
@@ -46,221 +52,112 @@ The only way to get custom enchants is via the crates. Don't worry, you don't ne
 
 <details>
 
-<summary><strong>Abattoir</strong> <em>(Common)</em></summary>
+<summary><strong>Block Breather</strong> <em>(Common, max III)</em></summary>
 
-**What it does:** Tridents deal %placeholder%% more damage against passive mobs
+15% / 30% / 45% chance to ignore suffocation damage
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** trident
-
-**Max level:** 5
-
-**Scaling / placeholders:** `30 * %level%`
-
-**Conflicts with:** Arachnid, Bladed, impaling, pacify, phantasm, Serrated
+* **Applies to:** Helmets
+* **Max level:** III
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Arachnid</strong> <em>(Common)</em></summary>
+<summary><strong>Composter</strong> <em>(Common, max III)</em></summary>
 
-**What it does:** Increases damage against spiders
+5% / 10% / 15% chance for a harvested crop to also drop bone meal
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** trident
-
-**Max level:** 5
-
-**Scaling / placeholders:** `30 * %level%`
-
-**Conflicts with:** Abattoir, Bladed, impaling, pacify, phantasm, Serrated
+* **Applies to:** Hoes
+* **Max level:** III
+* **Found in:** Tools crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Block Breather</strong> <em>(Common)</em></summary>
+<summary><strong>Cushion</strong> <em>(Common, max III)</em></summary>
 
-**What it does:** %placeholder%% chance to ignore suffocation damage
+Fall damage starts 1 / 2 / 3 blocks later
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** helmet
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 15`
-
-**Conflicts with:** —
+* **Applies to:** Boots
+* **Max level:** III
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Butchering</strong> <em>(Common)</em></summary>
+<summary><strong>Foraging</strong> <em>(Common, max IV)</em></summary>
 
-**What it does:** Deal %placeholder%% more damage against passive mobs
+Gives a 34% / 75% / 121% / 167% boost to apple drops from leaves
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** sword, axe
-
-**Max level:** 5
-
-**Scaling / placeholders:** `25 * %level%`
-
-**Conflicts with:** bane\_of\_arthropods, Defusion, ender\_slayer, Razor, sharpness, smite
+* **Applies to:** Hoes
+* **Max level:** IV
+* **Found in:** Tools crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Defusion</strong> <em>(Common)</em></summary>
+<summary><strong>Infinite Crossy</strong> <em>(Common, max I)</em></summary>
 
-**What it does:** Deal %placeholder%% more damage against creepers
+Get your arrow back every time you hit a mob or player
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** sword, axe
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 10`
-
-**Conflicts with:** bane\_of\_arthropods, Butchering, ender\_slayer, Introversion, Razor, sharpness, smite
+* **Applies to:** Crossbows
+* **Max level:** I
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Multishot, Pentashot, Piercing
 
 </details>
 
 <details>
 
-<summary><strong>Ender Slayer</strong> <em>(Common)</em></summary>
+<summary><strong>Introversion</strong> <em>(Common, max V)</em></summary>
 
-**What it does:** Gives a %placeholder% bonus to melee damage against end mobs
+Gives a 2.5 / 5 / 7.5 / 10 / 12.5 bonus to melee damage against players
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** sword, axe
-
-**Max level:** 5
-
-**Scaling / placeholders:** `1 + 1.5 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** V
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Bane of Arthropods, Brightness, Sharpness, Slaughter, Smite
 
 </details>
 
 <details>
 
-<summary><strong>Reinforcement</strong> <em>(Common)</em></summary>
+<summary><strong>Nourish</strong> <em>(Common, max III)</em></summary>
 
-**What it does:** Reduces incoming damage
+3% / 6% / 9% chance for a harvested crop to restore half a hunger bar
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** elytra
-
-**Max level:** 4
-
-**Scaling / placeholders:** `%level% * 3`
-
-**Conflicts with:** —
+* **Applies to:** Hoes
+* **Max level:** III
+* **Found in:** Tools crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Serrated</strong> <em>(Common)</em></summary>
+<summary><strong>Slaughter</strong> <em>(Common, max V)</em></summary>
 
-**What it does:** Deal %placeholder%% more damage with Tridents
+Gives a 2.5 / 5 / 7.5 / 10 / 12.5 bonus to melee damage against passive mobs
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** trident
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 4`
-
-**Conflicts with:** Abattoir, Arachnid, Bladed, impaling, pacify, phantasm
+* **Applies to:** Swords
+* **Max level:** V
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Bane of Arthropods, Brightness, Introversion, Sharpness, Smite
 
 </details>
 
 <details>
 
-<summary><strong>Slaughter</strong> <em>(Common)</em></summary>
+<summary><strong>Telekinesis</strong> <em>(Common, max I)</em></summary>
 
-**What it does:** Gives a %placeholder% bonus to melee damage against passive mobs
+Drops and experience go directly into your inventory
 
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** sword, axe, trident
-
-**Max level:** 5
-
-**Scaling / placeholders:** `2.5 * %level%`
-
-**Conflicts with:** Introversion
-
-</details>
-
-<details>
-
-<summary><strong>Slicing</strong> <em>(Common)</em></summary>
-
-**What it does:** Damages entities when flown through
-
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** elytra
-
-**Max level:** 8
-
-**Scaling / placeholders:** `%level% * 20`
-
-**Conflicts with:** —
-
-</details>
-
-<details>
-
-<summary><strong>Stab</strong> <em>(Common)</em></summary>
-
-**What it does:** Deal %placeholder%% more melee damage with Tridents
-
-**Type:** Normal
-
-**Rarity:** Common
-
-**Applies to:** trident
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 4`
-
-**Conflicts with:** —
+* **Applies to:** Pickaxes, Swords, Axes, Hoes, Shovels
+* **Max level:** I
+* **Found in:** Tools & Weapons crate, chest loot
 
 </details>
 
@@ -268,161 +165,248 @@ The only way to get custom enchants is via the crates. Don't worry, you don't ne
 
 <details>
 
-<summary><strong>Defender</strong> <em>(Uncommon)</em></summary>
+<summary><strong>Adventurer</strong> <em>(Uncommon, max VI)</em></summary>
 
-**What it does:** Prevent damaging your own pets
+Gives a 2% / 4% / 6% / 8% / 10% / 12% boost to Exploration experience
 
-**Type:** Normal
-
-**Rarity:** Uncommon
-
-**Applies to:** bow, crossbow, sword
-
-**Max level:** 1
-
-**Scaling / placeholders:** `mobs: %level%`
-
-**Conflicts with:** —
+* **Applies to:** Boots
+* **Max level:** VI
+* **Found in:** chest loot
+* **Can't be combined with:** Enriched Plating
 
 </details>
 
 <details>
 
-<summary><strong>Farmhand</strong> <em>(Uncommon)</em></summary>
+<summary><strong>Anchor</strong> <em>(Uncommon, max II)</em></summary>
 
-**What it does:** Tills nearby blocks within %placeholder% range
+30% / 60% knockback resistance while holding a mace
 
-**Type:** Normal
-
-**Rarity:** Uncommon
-
-**Applies to:** hoe
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level% * 1`
-
-**Conflicts with:** —
+* **Applies to:** Mace
+* **Max level:** II
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Finishing</strong> <em>(Uncommon)</em></summary>
+<summary><strong>Angler</strong> <em>(Uncommon, max II)</em></summary>
 
-**What it does:** Increases damage dealt by %placeholder%% for each percent of health missing on your opponent
+Gives a 8% / 16% boost to Fishing experience
 
-**Type:** Normal
-
-**Rarity:** Uncommon
-
-**Applies to:** sword, axe
-
-**Max level:** 5
-
-**Scaling / placeholders:** `0.2 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Fishing Rods
+* **Max level:** II
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Introversion</strong> <em>(Uncommon)</em></summary>
+<summary><strong>Chemist</strong> <em>(Uncommon, max IV)</em></summary>
 
-**What it does:** Gives a %placeholder% bonus to melee damage against players
+Gives a 12.5% / 25% / 37.5% / 50% boost to Alchemy experience
 
-**Type:** Normal
-
-**Rarity:** Uncommon
-
-**Applies to:** sword
-
-**Max level:** 5
-
-**Scaling / placeholders:** `2.5 * %level%`
-
-**Conflicts with:** bane\_of\_arthropods, brightness, Defusion, Razor, sharpness, Slaughter, smite
+* **Applies to:** Helmets
+* **Max level:** IV
+* **Found in:** chest loot
+* **Can't be combined with:** Enriched Plating, Sorcery
 
 </details>
 
 <details>
 
-<summary><strong>Optics</strong> <em>(Uncommon)</em></summary>
+<summary><strong>Combatant</strong> <em>(Uncommon, max III)</em></summary>
 
-**What it does:** Increase damage when further from target
+Gives a 12.5% / 15% / 17.5% boost to Combat experience
 
-**Type:** Normal
-
-**Rarity:** Uncommon
-
-**Applies to:** bow, crossbow
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 5`
-
-**Conflicts with:** —
+* **Applies to:** Pickaxes
+* **Max level:** III
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Rapid</strong> <em>(Uncommon)</em></summary>
+<summary><strong>Crit Luck</strong> <em>(Uncommon, max III)</em></summary>
 
-**What it does:** Increases bow speed
+Gives +4 / 8 / 12 Crit Chance
 
-**Type:** Normal
-
-**Rarity:** Uncommon
-
-**Applies to:** bow
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level% * 3`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** III
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Telekinesis</strong> <em>(Uncommon)</em></summary>
+<summary><strong>Diurnal</strong> <em>(Uncommon, max VI)</em></summary>
 
-**What it does:** Drops and experience go directly into your inventory
+Deal 5% / 10% / 15% / 20% / 25% / 30% extra damage at day
 
-**Type:** Normal
-
-**Rarity:** Uncommon
-
-**Applies to:** pickaxe, sword, axe
-
-**Max level:** 1
-
-**Scaling / placeholders:** `—`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** VI
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Nocturnal
 
 </details>
 
 <details>
 
-<summary><strong>Wisdom</strong> <em>(Uncommon)</em></summary>
+<summary><strong>Ender Slayer</strong> <em>(Uncommon, max VI)</em></summary>
 
-**What it does:** Increases dropped experience by %placeholder%%
+Gives a 1.5 / 2 / 2.5 / 3 / 3.5 / 4 bonus to melee damage against end mobs
 
-**Type:** Normal
+* **Applies to:** Swords, Axes
+* **Max level:** VI
+* **Found in:** Weapons crate, chest loot
 
-**Rarity:** Uncommon
+</details>
 
-**Applies to:** sword, axe, pickaxe, shovel, hoe, bow, crossbow, trident
+<details>
 
-**Max level:** 3
+<summary><strong>Enriched Plating</strong> <em>(Uncommon, max IV)</em></summary>
 
-**Scaling / placeholders:** `100 + %level% * 20`
+Gives a 3% / 6% / 9% / 12% boost to Armory experience
 
-**Conflicts with:** —
+* **Applies to:** Armor
+* **Max level:** IV
+* **Found in:** chest loot
+* **Can't be combined with:** Adventurer, Chemist, Sorcery
+
+</details>
+
+<details>
+
+<summary><strong>Finishing</strong> <em>(Uncommon, max V)</em></summary>
+
+Increases damage dealt by 0.2% / 0.4% / 0.6% / 0.8% / 1% for each percent of health missing on your opponent
+
+* **Applies to:** Swords, Axes
+* **Max level:** V
+* **Found in:** Weapons crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>First Strike</strong> <em>(Uncommon, max V)</em></summary>
+
+Deal 50% / 70% / 90% / 110% / 130% more damage against victims on max health
+
+* **Applies to:** Swords, Axes
+* **Max level:** V
+* **Found in:** Weapons crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Green Thumb</strong> <em>(Uncommon, max II)</em></summary>
+
+Gives a 6% / 10% boost to Farming experience
+
+* **Applies to:** Hoes
+* **Max level:** II
+* **Found in:** chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Harvest Rush</strong> <em>(Uncommon, max II)</em></summary>
+
+Harvesting a crop gives Speed I for 3 / 5 seconds
+
+* **Applies to:** Hoes
+* **Max level:** II
+* **Found in:** Tools crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Jumpshot</strong> <em>(Uncommon, max III)</em></summary>
+
+Deal 10% / 20% / 30% more damage in the air
+
+* **Applies to:** Bows, Crossbows
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Nocturnal</strong> <em>(Uncommon, max VI)</em></summary>
+
+Deal 5% / 10% / 15% / 20% / 25% / 30% extra damage at night
+
+* **Applies to:** Swords
+* **Max level:** VI
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Diurnal
+
+</details>
+
+<details>
+
+<summary><strong>Phalanx</strong> <em>(Uncommon, max II)</em></summary>
+
+30% / 60% knockback resistance while sneaking with a spear
+
+* **Applies to:** Spear
+* **Max level:** II
+* **Found in:** Weapons crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Prospector</strong> <em>(Uncommon, max V)</em></summary>
+
+Gives a 3% / 6% / 9% / 12% / 15% boost to Mining experience
+
+* **Applies to:** Pickaxes
+* **Max level:** V
+* **Found in:** chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Sorcery</strong> <em>(Uncommon, max V)</em></summary>
+
+Gives a 10% / 20% / 30% / 40% / 50% boost to Enchanting experience
+
+* **Applies to:** Helmets
+* **Max level:** V
+* **Found in:** chest loot
+* **Can't be combined with:** Chemist, Enriched Plating
+
+</details>
+
+<details>
+
+<summary><strong>Wisdom</strong> <em>(Uncommon, max III)</em></summary>
+
+Increases dropped experience by 20% / 40% / 60%
+
+* **Applies to:** Swords, Axes, Pickaxes, Shovels, Hoes, Bows, Crossbows, Tridents
+* **Max level:** III
+* **Found in:** Tools & Weapons crate, chest loot
+* **Can't be combined with:** Intellect
+
+</details>
+
+<details>
+
+<summary><strong>Woodworker</strong> <em>(Uncommon, max IV)</em></summary>
+
+Gives a 4% / 8% / 12% / 16% boost to Woodcutting experience
+
+* **Applies to:** Axes
+* **Max level:** IV
+* **Found in:** chest loot
 
 </details>
 
@@ -430,521 +414,290 @@ The only way to get custom enchants is via the crates. Don't worry, you don't ne
 
 <details>
 
-<summary><strong>Aquatic</strong> <em>(Rare)</em></summary>
+<summary><strong>Boss Hunter</strong> <em>(Rare, max VIII)</em></summary>
 
-**What it does:** Trident deals %placeholder%% additional damage when shot from water
+Deal 10% / 20% / 30% / 40% / 50% / 60% / 70% / 80% more damage against bosses
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** trident
-
-**Max level:** 8
-
-**Scaling / placeholders:** `5 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Bows, Crossbows
+* **Max level:** VIII
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Arborist</strong> <em>(Rare)</em></summary>
+<summary><strong>Caffeinated</strong> <em>(Rare, max III)</em></summary>
 
-**What it does:** \['Get more sticks, apples, and saplings from leaves']
+Gives a 5% / 10% / 15% bonus to attack speed while sprinting
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** axe, shears, hoe
-
-**Max level:** 4
-
-**Scaling / placeholders:** `[]`
-
-**Conflicts with:** silk\_touch
+* **Applies to:** Swords
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Backstab</strong> <em>(Rare)</em></summary>
+<summary><strong>Cerebral</strong> <em>(Rare, max III)</em></summary>
 
-**What it does:** \['Deal %placeholder%% more damage from behind']
+Increases headshot damage by 10% / 20% / 30%
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** axe, sword
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 10`
-
-**Conflicts with:** —
+* **Applies to:** Bows, Crossbows, Tridents
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Boss Hunter</strong> <em>(Rare)</em></summary>
+<summary><strong>Collateral</strong> <em>(Rare, max IV)</em></summary>
 
-**What it does:** Deal %placeholder%% more damage against bosses
+Arrows pass through 1 / 2 / 3 / 4 extra enemies
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** bow, crossbow
-
-**Max level:** 8
-
-**Scaling / placeholders:** `10 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Bows
+* **Max level:** IV
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Cerebral</strong> <em>(Rare)</em></summary>
+<summary><strong>Cubism</strong> <em>(Rare, max VII)</em></summary>
 
-**What it does:** Increases headshot damage by %placeholder%%
+Deal 5% / 10% / 15% / 20% / 25% / 30% / 35% more against slimes and magma cubes
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** bow, crossbow, trident
-
-**Max level:** 8
-
-**Scaling / placeholders:** `3 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords, Axes, Bows, Crossbows
+* **Max level:** VII
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Cleave</strong> <em>(Rare)</em></summary>
+<summary><strong>Daze</strong> <em>(Rare, max II)</em></summary>
 
-**What it does:** %placeholder%% chance to damage all entities around attacked entity
+Hits give Weakness and Mining Fatigue for 2 / 4 seconds
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** axe
-
-**Max level:** 8
-
-**Scaling / placeholders:** `5 * %level%`
-
-**Conflicts with:** Carve
+* **Applies to:** Mace
+* **Max level:** II
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Collateral</strong> <em>(Rare)</em></summary>
+<summary><strong>Flashbang</strong> <em>(Rare, max VI)</em></summary>
 
-**What it does:** Arrows pass through %mobs% mobs
+Gives a 1% / 2% / 3% / 4% / 5% / 6% chance of blinding your opponent
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** bow
-
-**Max level:** 4
-
-**Scaling / placeholders:** `mobs: %level%`
-
-**Conflicts with:** —
+* **Applies to:** Bows, Crossbows
+* **Max level:** VI
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Cranial</strong> <em>(Rare)</em></summary>
+<summary><strong>Forceful Crit</strong> <em>(Rare, max VI)</em></summary>
 
-**What it does:** Increases headshot damage by %placeholder%%
+Gives +5 / 7 / 9 / 11 / 13 / 15 Crit Damage
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** trident
-
-**Max level:** 8
-
-**Scaling / placeholders:** `3 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** VI
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Cubism</strong> <em>(Rare)</em></summary>
+<summary><strong>Getaway</strong> <em>(Rare, max II)</em></summary>
 
-**What it does:** Deal %placeholder%% more against slimes and magma cubes
+Gain a 10% / 20% bonus to movement speed below 20% health
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword, axe, bow, crossbow
-
-**Max level:** 7
-
-**Scaling / placeholders:** `3.5 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Boots
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Diurnal</strong> <em>(Rare)</em></summary>
+<summary><strong>Goliath</strong> <em>(Rare, max VI)</em></summary>
 
-**What it does:** Deal %placeholder%% extra damage in day
+Deal 0.6 / 0.7 / 0.8 / 0.9 / 1 / 1.1x more damage for each times your opponent has more health than you, up to 2 / 2.4 / 2.8 / 3.2 / 3.6 / 4x
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 6
-
-**Scaling / placeholders:** `5 * %level%`
-
-**Conflicts with:** Nocturnal
+* **Applies to:** Swords
+* **Max level:** VI
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Diverse</strong> <em>(Rare)</em></summary>
+<summary><strong>Lumberjack</strong> <em>(Rare, max VI)</em></summary>
 
-**What it does:** Increase damage against players holding swords
+Chop down up to 4 / 8 / 12 / 16 / 20 / 24 blocks of a tree at once
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** axe
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level% * 2.5`
-
-**Conflicts with:** —
+* **Applies to:** Axes
+* **Max level:** VI
+* **Found in:** Tools crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Dweller</strong> <em>(Rare)</em></summary>
+<summary><strong>Might</strong> <em>(Rare, max IV)</em></summary>
 
-**What it does:** Deal %placeholder%% more damage to Illagers
+Gives +3 / 7 / 11 / 15 Strength
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword, axe
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 2`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** IV
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Famine</strong> <em>(Rare)</em></summary>
+<summary><strong>Ninja</strong> <em>(Rare, max V)</em></summary>
 
-**What it does:** %placeholder%% chance of giving your opponent hunger.
+Deal +1 / 1.5 / 2 / 2.5 / 3 damage while sneaking
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 8
-
-**Scaling / placeholders:** `%level%`
-
-**Conflicts with:** Diseased
+* **Applies to:** Swords
+* **Max level:** V
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>First Strike</strong> <em>(Rare)</em></summary>
+<summary><strong>Overload</strong> <em>(Rare, max VII)</em></summary>
 
-**What it does:** Deal %placeholder%% more damage against victims on max health
+Gives +1 / 2 / 3 / 4 / 5 / 6 / 7 Crit Chance and +1 / 2 / 3 / 4 / 5 / 6 / 7 Crit Damage
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword, axe
-
-**Max level:** 5
-
-**Scaling / placeholders:** `30 + 20 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Bows, Crossbows
+* **Max level:** VII
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Flinch</strong> <em>(Rare)</em></summary>
+<summary><strong>Rocket Saver</strong> <em>(Rare, max III)</em></summary>
 
-**What it does:** %placeholder%% chance to blind your attacker
+Gives a 20% / 40% / 60% chance to not consume fireworks when boosting
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** shield
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level% * 2.5`
-
-**Conflicts with:** —
+* **Applies to:** Elytra
+* **Max level:** III
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Fury</strong> <em>(Rare)</em></summary>
+<summary><strong>Shura</strong> <em>(Rare, max II)</em></summary>
 
-**What it does:** %placeholder%% chance of angering nearby monsters towards your opponent
+Gives a 1.25 / 1.5x bonus to critical damage when under half health
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 7
-
-**Scaling / placeholders:** `%level% * 2.5`
-
-**Conflicts with:** —
+* **Applies to:** Axes
+* **Max level:** II
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Goliath</strong> <em>(Rare)</em></summary>
+<summary><strong>Skull Puncture</strong> <em>(Rare, max III)</em></summary>
 
-**What it does:** Deal %damage%x more damage for each times your opponent has more health than you, up to %limit%x
+Increases headshot damage by 10% / 20% / 30%
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 6
-
-**Scaling / placeholders:** `damage: 0.5 + %level% * 0.1; limit: 1.6 + %level% * 0.4`
-
-**Conflicts with:** —
+* **Applies to:** Bows, Crossbows, Tridents
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Green Thumb</strong> <em>(Rare)</em></summary>
+<summary><strong>Sparks</strong> <em>(Rare, max V)</em></summary>
 
-**What it does:** Turn dirt into grass
+Hooking onto enemies during storms gives a 30% / 35% / 40% / 45% / 50% chance to strike lightning dealing 2 / 3 / 4 / 5 / 6 damage
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** hoe
-
-**Max level:** 1
-
-**Scaling / placeholders:** `%level% * 2.5`
-
-**Conflicts with:** —
+* **Applies to:** Fishing Rods
+* **Max level:** V
+* **Found in:** Tools crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Liquid Shot</strong> <em>(Rare)</em></summary>
+<summary><strong>Stamina</strong> <em>(Rare, max IV)</em></summary>
 
-**What it does:** Increase damage against fiery mobs
+Decreases sprinting hunger loss by 20% / 40% / 60% / 80%
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** bow, crossbow
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 2.5`
-
-**Conflicts with:** —
+* **Applies to:** Chestplates
+* **Max level:** IV
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Necrotic</strong> <em>(Rare)</em></summary>
+<summary><strong>Steel String</strong> <em>(Rare, max III)</em></summary>
 
-**What it does:** Wither Skeletons have +%placeholder%% chance to drop skulls
+Gives +5 / 7 / 9 Strength
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 4
-
-**Scaling / placeholders:** `%level% * 5`
-
-**Conflicts with:** looting
+* **Applies to:** Bows, Crossbows
+* **Max level:** III
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Nocturnal</strong> <em>(Rare)</em></summary>
+<summary><strong>Strongarm</strong> <em>(Rare, max II)</em></summary>
 
-**What it does:** Deal %placeholder%% extra damage at night
+Gives +6 / 10 Strength
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 6
-
-**Scaling / placeholders:** `5 * %level%`
-
-**Conflicts with:** Diurnal
+* **Applies to:** Tridents
+* **Max level:** II
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Oxygenate</strong> <em>(Rare)</em></summary>
+<summary><strong>Stun</strong> <em>(Rare, max III)</em></summary>
 
-**What it does:** Gain oxygen while mining underwater
+Gives a 5% / 7.5% / 10% chance to stun attacked mobs for 2 seconds
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** pickaxe, shovel, axe, hoe
-
-**Max level:** 8
-
-**Scaling / placeholders:** `%level% * 5`
-
-**Conflicts with:** —
+* **Applies to:** Swords, Bows, Tridents, Crossbows
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Proximity</strong> <em>(Rare)</em></summary>
+<summary><strong>Vanish</strong> <em>(Rare, max II)</em></summary>
 
-**What it does:** Deal %placeholder%% more damage when close to opponent
+Gives a 2% / 4% chance to disappear for 0.5 seconds after taking damage
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 5`
-
-**Conflicts with:** —
+* **Applies to:** Armor
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Thor</strong> <em>(Rare)</em></summary>
+<summary><strong>Veinminer</strong> <em>(Rare, max IV)</em></summary>
 
-**What it does:** %placeholder%% chance of striking your oppnent with lightning
+Mine up to 5 / 8 / 11 / 14 blocks in veins at once
 
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level% * 2`
-
-**Conflicts with:** —
-
-</details>
-
-<details>
-
-<summary><strong>Toxic</strong> <em>(Rare)</em></summary>
-
-**What it does:** %placeholder%% chance to apply poison to your opponent
-
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** sword
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level% * 3`
-
-**Conflicts with:** Diseased
-
-</details>
-
-<details>
-
-<summary><strong>Veinminer</strong> <em>(Rare)</em></summary>
-
-**What it does:** Mine up to %placeholder% blocks in veins at once
-
-**Type:** Normal
-
-**Rarity:** Rare
-
-**Applies to:** pickaxe
-
-**Max level:** 4
-
-**Scaling / placeholders:** `2 + 3 * %level%`
-
-**Conflicts with:** Blast Mining
+* **Applies to:** Pickaxes
+* **Max level:** IV
+* **Found in:** Tools crate, chest loot
+* **Can't be combined with:** Blast Mining
 
 </details>
 
@@ -952,621 +705,307 @@ The only way to get custom enchants is via the crates. Don't worry, you don't ne
 
 <details>
 
-<summary><strong>Aerial</strong> <em>(Epic)</em></summary>
+<summary><strong>Adrenaline</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** Deal %placeholder%% more arrow damage when you are in air
+Gain strength for 1.5 / 2 / 2.5 seconds when blocking hits
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** bow, crossbow
-
-**Max level:** 3
-
-**Scaling / placeholders:** `10 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Shields
+* **Max level:** III
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Arcanic</strong> <em>(Epic)</em></summary>
+<summary><strong>Aftershock</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** %placeholder%% chance to ignore potion damage
+Smash hits give Slowness II for 3 / 4 / 5 seconds to mobs and players within 4 blocks
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** armor
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level% * 8`
-
-**Conflicts with:** —
+* **Applies to:** Mace
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Atmospheric</strong> <em>(Epic)</em></summary>
+<summary><strong>Arcane Defence</strong> <em>(Epic, max V)</em></summary>
 
-**What it does:** Deal %placeholder%% more trident damage when you are in air
+Gives a 4% / 8% / 12% / 16% / 20% chance to ignore potion damage
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** trident
-
-**Max level:** 3
-
-**Scaling / placeholders:** `10 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Armor
+* **Max level:** V
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Criticals</strong> <em>(Epic)</em></summary>
+<summary><strong>Cavalry</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** Increases critical damage by %placeholder%%
++10% / 20% / 30% damage while riding a mount
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword, axe
-
-**Max level:** 3
-
-**Scaling / placeholders:** `10 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Spear
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Deflection</strong> <em>(Epic)</em></summary>
+<summary><strong>Criticals</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** Rebounds %placeholder%% of incoming damage back at your attacker
+Increases critical damage by 10% / 20% / 30%
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** shield
-
-**Max level:** 3
-
-**Scaling / placeholders:** `20 + %level% * 10`
-
-**Conflicts with:** —
+* **Applies to:** Swords, Axes
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Dexterity</strong> <em>(Epic)</em></summary>
+<summary><strong>Dexterity</strong> <em>(Epic, max II)</em></summary>
 
-**What it does:** Increases attack speed by %placeholder%%
+Increases attack speed by 10% / 20%
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword, axe
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level% * 10`
-
-**Conflicts with:** —
+* **Applies to:** Swords, Axes
+* **Max level:** II
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Dullness</strong> <em>(Epic)</em></summary>
+<summary><strong>Echo</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** %placeholder%% giving your opponent weakness
+3% / 6% / 9% chance to hit twice
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** bow, crossbow
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords, Axes
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Economical</strong> <em>(Epic)</em></summary>
+<summary><strong>End Affinity</strong> <em>(Epic, max IV)</em></summary>
 
-**What it does:** Gives a %placeholder%% chance to not consume fireworks when boosting
+Increases damage dealt in the end by 30% / 40% / 50% / 60%
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** elytra
-
-**Max level:** 4
-
-**Scaling / placeholders:** `%level% * 20`
-
-**Conflicts with:** —
+* **Applies to:** Swords, Bows, Tridents
+* **Max level:** IV
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Nether Affinity
 
 </details>
 
 <details>
 
-<summary><strong>End Affinity</strong> <em>(Epic)</em></summary>
+<summary><strong>Escape</strong> <em>(Epic, max II)</em></summary>
 
-**What it does:** Increases damage dealt in the end by %placeholder%%
+Gain a short burst of speed 1% / 2% after taking damage
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword, bow, trident
-
-**Max level:** 4
-
-**Scaling / placeholders:** `20 + %level% * 10`
-
-**Conflicts with:** nether\_affinity, Netheric, Water Affinity
+* **Applies to:** Boots
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
+* **Can't be combined with:** Streamlining
 
 </details>
 
 <details>
 
-<summary><strong>Enderism</strong> <em>(Epic)</em></summary>
+<summary><strong>Gear Shift</strong> <em>(Epic, max I)</em></summary>
 
-**What it does:** Increases damage dealt in the end by %placeholder%%
+Blocking a hit with your shield gives you Speed II and your attacker Slowness II for 5 seconds
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword, bow, trident
-
-**Max level:** 6
-
-**Scaling / placeholders:** `20 + %level% * 10`
-
-**Conflicts with:** Netheric
+* **Applies to:** Shields
+* **Max level:** I
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Evasion</strong> <em>(Epic)</em></summary>
+<summary><strong>Haunting</strong> <em>(Epic, max II)</em></summary>
 
-**What it does:** %placeholder%% chance to ignore incoming damage
+Dying spawns a harming cloud for 2 / 3 seconds
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** armor
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 0.5`
-
-**Conflicts with:** —
+* **Applies to:** Helmets
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Extinguishing</strong> <em>(Epic)</em></summary>
+<summary><strong>Marksman</strong> <em>(Epic, max I)</em></summary>
 
-**What it does:** %placeholder%% chance to remove fire when taking fire damage
+Arrows fly dead straight with no drop
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** armor
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 4`
-
-**Conflicts with:** —
+* **Applies to:** Bows
+* **Max level:** I
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Seeker
 
 </details>
 
 <details>
 
-<summary><strong>Fire Affinity</strong> <em>(Epic)</em></summary>
+<summary><strong>Nether Affinity</strong> <em>(Epic, max IV)</em></summary>
 
-**What it does:** Increases damage dealt when on fire
+Increases damage dealt in the nether by 30% / 40% / 50% / 60%
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword
-
-**Max level:** 7
-
-**Scaling / placeholders:** `%level% * 4`
-
-**Conflicts with:** wateraffinity
+* **Applies to:** Swords, Bows, Tridents
+* **Max level:** IV
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** End Affinity
 
 </details>
 
 <details>
 
-<summary><strong>Grit</strong> <em>(Epic)</em></summary>
+<summary><strong>Ore Sense</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** Damages your opponent's weapon
+Mining stone makes nearby ores glow for 3 seconds. I: coal, copper, iron. II: + gold, redstone, lapis. III: + diamond, emerald. 30 second cooldown
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** armor
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 2.5`
-
-**Conflicts with:** —
+* **Applies to:** Pickaxes
+* **Max level:** III
+* **Found in:** Tools crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Infernal Touch</strong> <em>(Epic)</em></summary>
+<summary><strong>Petkeeper</strong> <em>(Epic, max IV)</em></summary>
 
-**What it does:** Automatically smelts mined blocks
+Gives a 1% / 2% / 3% / 4% boost to pet experience
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** pickaxe, shovel, hoe
-
-**Max level:** 1
-
-**Scaling / placeholders:** `—`
-
-**Conflicts with:** silk\_touch
+* **Applies to:** Armor
+* **Max level:** IV
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Invigorating</strong> <em>(Epic)</em></summary>
+<summary><strong>Poison Ivy</strong> <em>(Epic, max II)</em></summary>
 
-**What it does:** Increases outgoing damage and reduces incoming damage when low on health
+Poisons attackers for 0.5 / 1 seconds for each heart of damage dealt, up to 5 / 6 seconds
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** armor
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 2.5`
-
-**Conflicts with:** —
+* **Applies to:** Leggings
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
+* **Can't be combined with:** Thorns
 
 </details>
 
 <details>
 
-<summary><strong>Launch</strong> <em>(Epic)</em></summary>
+<summary><strong>Rapid</strong> <em>(Epic, max VI)</em></summary>
 
-**What it does:** Fireworks give a short burst of extreme speed
+Lets you shoot full speed arrows with the bow at 85% / 70% / 55% / 40% / 25% / 10% tension
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** elytra
-
-**Max level:** 8
-
-**Scaling / placeholders:** `%level% * 20`
-
-**Conflicts with:** —
+* **Applies to:** Bows
+* **Max level:** VI
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Netheric</strong> <em>(Epic)</em></summary>
+<summary><strong>Rebounding</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** Increases damage dealt in the nether by %placeholder%%
+Rebounds 30% / 40% / 50% of incoming damage back at your attacker
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword, bow, trident, crossbow
-
-**Max level:** 4
-
-**Scaling / placeholders:** `20 + %level% * 10`
-
-**Conflicts with:** End Affinity, Enderism
+* **Applies to:** Shields
+* **Max level:** III
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Paladin</strong> <em>(Epic)</em></summary>
+<summary><strong>Seismic</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** Deal %placeholder%% more damage when riding a Horse
+A hit while falling sends out a shockwave dealing 3 / 4 / 5 damage within 3 blocks
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 2`
-
-**Conflicts with:** —
+* **Applies to:** Mace
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Parry</strong> <em>(Epic)</em></summary>
+<summary><strong>Shulker Harvest</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** Take %placeholder%% less damage when wielding
+Gives a 121% / 167% / 215% boost to shulker drops
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword
-
-**Max level:** 4
-
-**Scaling / placeholders:** `%level% * 5`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Looting
 
 </details>
 
 <details>
 
-<summary><strong>Radiance</strong> <em>(Epic)</em></summary>
+<summary><strong>Skewer</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** Causes entities to glow near where arrow lands
+4% / 8% / 12% chance to also deal half damage to enemies right around your target
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** bow, crossbow
-
-**Max level:** 4
-
-**Scaling / placeholders:** `%level% * 5`
-
-**Conflicts with:** —
+* **Applies to:** Spear
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Rage</strong> <em>(Epic)</em></summary>
+<summary><strong>Slipstream</strong> <em>(Epic, max III)</em></summary>
 
-**What it does:** %placeholder%% chance of angering nearby monsters towards your opponent
+Gives a 8% / 16% / 24% boost to movement speed while holding
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** bow
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 3`
-
-**Conflicts with:** —
+* **Applies to:** Tridents
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Rebounding</strong> <em>(Epic)</em></summary>
+<summary><strong>Snipe</strong> <em>(Epic, max IV)</em></summary>
 
-**What it does:** Deal knockback to entities that attack you
+Arrows deal 1% / 2% / 3% / 4% more damage for each 10 / 10 / 9 / 9 blocks travelled
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** shield
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level% * 3`
-
-**Conflicts with:** —
+* **Applies to:** Bows, Crossbows
+* **Max level:** IV
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Sating</strong> <em>(Epic)</em></summary>
+<summary><strong>Thor</strong> <em>(Epic, max VI)</em></summary>
 
-**What it does:** Reduces hunger loss by %placeholder%%
+Gives a 1% / 2% / 3% / 4% / 5% / 6% chance to strike 1 / 1 / 2 / 2 / 3 / 3 lightning bolts on your opponent
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** helmet
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level% * 10`
-
-**Conflicts with:** —
+* **Applies to:** Bows, Crossbows
+* **Max level:** VI
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Stalwart</strong> <em>(Epic)</em></summary>
+<summary><strong>Wyvern</strong> <em>(Epic, max II)</em></summary>
 
-**What it does:** %value%% chance to get resistance for a short time when taking damage
+Gives a 10% / 20% bonus to melee damage
 
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** armor
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 2`
-
-**Conflicts with:** —
-
-</details>
-
-<details>
-
-<summary><strong>Stamina</strong> <em>(Epic)</em></summary>
-
-**What it does:** Decreases sprinting hunger loss by %placeholder%%
-
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** chestplate
-
-**Max level:** 4
-
-**Scaling / placeholders:** `%level% * 20`
-
-**Conflicts with:** —
-
-</details>
-
-<details>
-
-<summary><strong>Sycophant</strong> <em>(Epic)</em></summary>
-
-**What it does:** When successfully blocking an attack, you heal %placeholder%% of the damage you would've taken
-
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** shield
-
-**Max level:** 3
-
-**Scaling / placeholders:** `damage: %level% * 2`
-
-**Conflicts with:** —
-
-</details>
-
-<details>
-
-<summary><strong>Tectonic</strong> <em>(Epic)</em></summary>
-
-**What it does:** Deal %damage% damage within a %radius% block radius when taking fall damage
-
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** boots
-
-**Max level:** 2
-
-**Scaling / placeholders:** `radius: 3 + (%level% * 2); damage: 1 + %level%`
-
-**Conflicts with:** feather\_falling
-
-</details>
-
-<details>
-
-<summary><strong>Transfuse</strong> <em>(Epic)</em></summary>
-
-**What it does:** %placeholder%% chance to transform drop to a random ore
-
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** shovel, pickaxe
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 0.05`
-
-**Conflicts with:** fortune
-
-</details>
-
-<details>
-
-<summary><strong>Water Affinity</strong> <em>(Epic)</em></summary>
-
-**What it does:** Increases damage dealt while in the water by %placeholder%%
-
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** sword, trident
-
-**Max level:** 4
-
-**Scaling / placeholders:** `20 + %level% * 10`
-
-**Conflicts with:** End Affinity, nether\_affinity
-
-</details>
-
-<details>
-
-<summary><strong>Zeus</strong> <em>(Epic)</em></summary>
-
-**What it does:** Gives a %chance%% chance to strike %bolts% lightning bolts on your opponent
-
-**Type:** Normal
-
-**Rarity:** Epic
-
-**Applies to:** bow, crossbow
-
-**Max level:** 6
-
-**Scaling / placeholders:** `chance: %level%; bolts: ceil(%level% / 2)`
-
-**Conflicts with:** —
+* **Applies to:** Elytra
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
 
 </details>
 
@@ -1574,746 +1013,694 @@ The only way to get custom enchants is via the crates. Don't worry, you don't ne
 
 <details>
 
-<summary><strong>Abrasion</strong> <em>(Legendary)</em></summary>
+<summary><strong>Abrasion</strong> <em>(Legendary, max II)</em></summary>
 
-**What it does:** Deals %placeholder% damage to your opponents armor
+Deals 1 / 2 damage to your opponents armor
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** sword, axe
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords, Axes
+* **Max level:** II
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Blast Mining</strong> <em>(Legendary)</em></summary>
+<summary><strong>Arc</strong> <em>(Legendary, max III)</em></summary>
 
-**What it does:** Mine blocks in a 3x3 area
+5% / 10% / 15% chance for a hit to chain lightning to up to 3 nearby enemies
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** pickaxe, shovel
-
-**Max level:** 1
-
-**Scaling / placeholders:** `—`
-
-**Conflicts with:** Veinminer
+* **Applies to:** Swords
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Bleed</strong> <em>(Legendary)</em></summary>
+<summary><strong>Blackout</strong> <em>(Legendary, max IV)</em></summary>
 
-**What it does:** Gives a %placeholder%% chance to cause your opponent to bleed, damaging them repeatedly
+Gives a 7% / 8% / 9% / 10% chance to give your opponent darkness for 5 / 5 / 6 / 6 seconds
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** sword
-
-**Max level:** 7
-
-**Scaling / placeholders:** `1.5 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** IV
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Blind</strong> <em>(Legendary)</em></summary>
+<summary><strong>Bleed</strong> <em>(Legendary, max VII)</em></summary>
 
-**What it does:** %placeholder%% chance of blinding your opponent
+Gives a 1.5% / 3% / 4.5% / 6% / 7.5% / 9% / 10.5% chance to cause your opponent to bleed, damaging them repeatedly
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** bow, crossbow
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** VII
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Corrosive</strong> <em>(Legendary)</em></summary>
+<summary><strong>Brightness</strong> <em>(Legendary, max V)</em></summary>
 
-**What it does:** Deals %placeholder% damage to your opponents armor
+Deal 4% / 8% / 12% / 16% / 20% more damage to the warden while in the deep dark
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** bow, crossbow
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords
+* **Max level:** V
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Bane of Arthropods, Introversion, Sharpness, Slaughter, Smite
 
 </details>
 
 <details>
 
-<summary><strong>Disappear</strong> <em>(Legendary)</em></summary>
+<summary><strong>Carve</strong> <em>(Legendary, max IV)</em></summary>
 
-**What it does:** Go invisible if damaged on low on health
+Give 2 / 4 / 6 / 8 damage to entities within 2 / 3 / 4 / 5 blocks when you swing
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** helmet, chestplate, leggings, boots
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level% * 2`
-
-**Conflicts with:** —
+* **Applies to:** Axes
+* **Max level:** IV
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Drill</strong> <em>(Legendary)</em></summary>
+<summary><strong>Contagion</strong> <em>(Legendary, max II)</em></summary>
 
-**What it does:** Mine blocks behind other blocks
+Gives a 5% / 10% chance to spawn a cloud of poison around where your trident lands
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** pickaxe, axe, shovel
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 2`
-
-**Conflicts with:** blast\_mining, Lumberjack, vein
+* **Applies to:** Tridents
+* **Max level:** II
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Frost</strong> <em>(Legendary)</em></summary>
+<summary><strong>Excavation</strong> <em>(Legendary, max V)</em></summary>
 
-**What it does:** Gives a %chance%% chance to make your opponent feel as if they've been frozen for %seconds% seconds
+Digs 1 / 2 / 3 / 4 / 5 extra blocks
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** bow
-
-**Max level:** 3
-
-**Scaling / placeholders:** `chance: 3 + 2 * %level%; seconds: 2 + %level%`
-
-**Conflicts with:** —
+* **Applies to:** Shovels
+* **Max level:** V
+* **Found in:** Tools crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Lumberjack</strong> <em>(Legendary)</em></summary>
+<summary><strong>Feather Step</strong> <em>(Legendary, max I)</em></summary>
 
-**What it does:** Chop down up to %placeholder% blocks of a tree at once
+Prevents trampling crops by jumping on them
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** axe
-
-**Max level:** 6
-
-**Scaling / placeholders:** `4 * %level%`
-
-**Conflicts with:** Drill
+* **Applies to:** Boots
+* **Max level:** I
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Marking</strong> <em>(Legendary)</em></summary>
+<summary><strong>Fortitude</strong> <em>(Legendary, max II)</em></summary>
 
-**What it does:** Increase damage against marked mobs
+Gives a 2% / 4% bonus to damage dealt
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** bow, crossbow
-
-**Max level:** 4
-
-**Scaling / placeholders:** `%level% * 2.5`
-
-**Conflicts with:** —
+* **Applies to:** Armor
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Rejuvenation</strong> <em>(Legendary)</em></summary>
+<summary><strong>Frost</strong> <em>(Legendary, max III)</em></summary>
 
-**What it does:** Increases natural regeneration speed
+Gives a 5% / 7% / 9% chance to make your opponent feel as if they've been frozen for 3 / 4 / 5 seconds
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** armor
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level% * 3`
-
-**Conflicts with:** —
+* **Applies to:** Bows
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Shot Assist</strong> <em>(Legendary)</em></summary>
+<summary><strong>Gravity Well</strong> <em>(Legendary, max II)</em></summary>
 
-**What it does:** Arrows deal %placeholder%% more damage
+Mobs and players within 4 / 6 blocks are pulled to where your arrow lands. 10 second cooldown
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** armor
-
-**Max level:** 6
-
-**Scaling / placeholders:** `%level% * 1.5`
-
-**Conflicts with:** —
+* **Applies to:** Bows, Crossbows
+* **Max level:** II
+* **Found in:** Weapons crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Succession</strong> <em>(Legendary)</em></summary>
+<summary><strong>Infernal Touch</strong> <em>(Legendary, max I)</em></summary>
 
-**What it does:** Shoots a burst of arrows
+Automatically smelts mined blocks
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** bow
-
-**Max level:** 1
-
-**Scaling / placeholders:** `%level% * 2`
-
-**Conflicts with:** Buckshot, Pentashot, Tripleshot
+* **Applies to:** Pickaxes
+* **Max level:** I
+* **Found in:** Tools crate, chest loot
+* **Can't be combined with:** Silk Touch
 
 </details>
 
 <details>
 
-<summary><strong>Thrive</strong> <em>(Legendary)</em></summary>
+<summary><strong>Metabolism</strong> <em>(Legendary, max II)</em></summary>
 
-**What it does:** Gives %placeholder% bonus health
+Increases the hunger gained by eating food by 12.5% / 25%
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** armor
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level%`
-
-**Conflicts with:** Prosperity
+* **Applies to:** Chestplates
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Tripleshot</strong> <em>(Legendary)</em></summary>
+<summary><strong>Neptune</strong> <em>(Legendary, max III)</em></summary>
 
-**What it does:** Shoot 3 arrows instead of 1
+Gives +30 / 40 / 50 to Crit Damage but reduces Crit Chance by 35% / 30% / 25%
 
-**Type:** Normal
-
-**Rarity:** Legendary
-
-**Applies to:** bow
-
-**Max level:** 1
-
-**Scaling / placeholders:** `—`
-
-**Conflicts with:** Buckshot, Pentashot, Succession
+* **Applies to:** Tridents
+* **Max level:** III
+* **Found in:** chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Wound</strong> <em>(Legendary)</em></summary>
+<summary><strong>Nether Prospector</strong> <em>(Legendary, max II)</em></summary>
 
-**What it does:** Gives a %chance%% chance to give your opponent %damage% damage for %duration% seconds
+Gives a 34% / 75% boost to ancient debris drops
 
-**Type:** Normal
+* **Applies to:** Pickaxes
+* **Max level:** II
+* **Found in:** Tools crate, chest loot
+* **Can't be combined with:** Fortune, Silk Touch
 
-**Rarity:** Legendary
+</details>
 
-**Applies to:** bow, crossbow
+<details>
 
-**Max level:** 7
+<summary><strong>Replenish</strong> <em>(Legendary, max I)</em></summary>
 
-**Scaling / placeholders:** `chance: %level% * 3; duration: 0.75 * (%level% + 2); damage: 1`
+Crops are replanted automatically
 
-**Conflicts with:** sharpness
+* **Applies to:** Hoes
+* **Max level:** I
+* **Found in:** Tools crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Seeker</strong> <em>(Legendary, max I)</em></summary>
+
+Arrows curve toward the nearest hostile mob
+
+* **Applies to:** Bows
+* **Max level:** I
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Marksman
+
+</details>
+
+<details>
+
+<summary><strong>Thrive</strong> <em>(Legendary, max II)</em></summary>
+
+Gives 1 / 2 bonus health
+
+* **Applies to:** Armor
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
+* **Can't be combined with:** Prosperity
+
+</details>
+
+<details>
+
+<summary><strong>Tiller</strong> <em>(Legendary, max I)</em></summary>
+
+Tilling a block also tills the 3x3 around it
+
+* **Applies to:** Hoes
+* **Max level:** I
+* **Found in:** Tools crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Tornado</strong> <em>(Legendary, max III)</em></summary>
+
+5% / 10% / 15% chance to launch your target into the air
+
+* **Applies to:** Swords
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Tripleshot</strong> <em>(Legendary, max I)</em></summary>
+
+Shoot 3 arrows instead of 1
+
+* **Applies to:** Bows
+* **Max level:** I
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Pentashot
+
+</details>
+
+<details>
+
+<summary><strong>Uplift</strong> <em>(Legendary, max III)</em></summary>
+
+5% / 10% / 15% chance to launch your target into the air
+
+* **Applies to:** Mace
+* **Max level:** III
+* **Found in:** Weapons crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Vicious</strong> <em>(Legendary, max III)</em></summary>
+
+Gives +10 / 15 / 20 Ferocity
+
+* **Applies to:** Swords
+* **Max level:** III
+* **Found in:** chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Wound</strong> <em>(Legendary, max VII)</em></summary>
+
+Gives a 3% / 6% / 9% / 12% / 15% / 18% / 21% chance to give your opponent 1 damage for 2.25 / 3 / 3.75 / 4.5 / 5.25 / 6 / 6.75 seconds
+
+* **Applies to:** Bows, Crossbows
+* **Max level:** VII
+* **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Power
+
+</details>
+
+### Spell Enchants
+
+Only one spell enchant can go on an item.
+
+<details>
+
+<summary><strong>Stimulating</strong> <em>(Legendary, max II)</em></summary>
+
+Gives a 10% / 20% bonus to all stats for 3 / 6 seconds
+
+* **Applies to:** Swords
+* **Max level:** II
+* **Found in:** chest loot
 
 </details>
 
 ### Special Enchants
 
+Stronger and rarer. Only one special or very special enchant can go on an item.
+
 #### Special
 
 <details>
 
-<summary><strong>Aiming</strong> <em>(Special)</em></summary>
+<summary><strong>Aura</strong> <em>(Special, max II)</em></summary>
 
-**What it does:** Arrows home in on your targets within %placeholder% blocks
+Players within 5 / 7 blocks of you take 10% / 20% less damage
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** bow
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 4`
-
-**Conflicts with:** —
+* **Applies to:** Chestplates, Leggings
+* **Max level:** II
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Bolt</strong> <em>(Special)</em></summary>
+<summary><strong>Bulwark</strong> <em>(Special, max I)</em></summary>
 
-**What it does:** %placeholder%% chance of striking powerful lightning on your opponent
+Blocking a hit with your shield gives 2 absorption hearts. 30 second cooldown
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** sword
-
-**Max level:** 4
-
-**Scaling / placeholders:** `8 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Shields
+* **Max level:** I
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Carve</strong> <em>(Special)</em></summary>
+<summary><strong>Confusion</strong> <em>(Special, max IV)</em></summary>
 
-**What it does:** Give %damage% damage to entities within %radius% blocks when you swing
+Gives a 2% / 4% / 6% / 8% chance to shuffle your opponents hotbar
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** axe
-
-**Max level:** 4
-
-**Scaling / placeholders:** `damage: %level% * 3; radius: 1 + %level%`
-
-**Conflicts with:** Cleave
+* **Applies to:** Swords
+* **Max level:** IV
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Confusion</strong> <em>(Special)</em></summary>
+<summary><strong>Downpour</strong> <em>(Special, max III)</em></summary>
 
-**What it does:** Gives a %placeholder%% chance to shuffle your opponents hotbar
+5% / 10% / 15% chance to rain 10 arrows on your target. 10 second cooldown
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** sword
-
-**Max level:** 4
-
-**Scaling / placeholders:** `5 * %level%`
-
-**Conflicts with:** —
+* **Applies to:** Bows
+* **Max level:** III
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Energizing</strong> <em>(Special)</em></summary>
+<summary><strong>Frenzy</strong> <em>(Special, max IV)</em></summary>
 
-**What it does:** Gives Haste %placeholder% when breaking a block
+5% / 10% / 15% / 20% chance for a fish to bite almost straight away
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** pickaxe, axe, shovel, hoe
-
-**Max level:** 3
-
-**Scaling / placeholders:** `damage: %level% * 2`
-
-**Conflicts with:** —
+* **Applies to:** Fishing Rods
+* **Max level:** IV
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Frenzy</strong> <em>(Special)</em></summary>
+<summary><strong>Intellect</strong> <em>(Special, max II)</em></summary>
 
-**What it does:** Kills grant you a brief burst of strength 2
+Increases dropped experience by 50% / 100%
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** sword, axe, bow, crossbow, trident, hoe
-
-**Max level:** 1
-
-**Scaling / placeholders:** `%level%`
-
-**Conflicts with:** —
+* **Applies to:** Swords, Axes, Pickaxes, Shovels, Hoes, Bows, Crossbows, Tridents
+* **Max level:** II
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Wisdom
 
 </details>
 
 <details>
 
-<summary><strong>Indestructibility</strong> <em>(Special)</em></summary>
+<summary><strong>Pentashot</strong> <em>(Special, max I)</em></summary>
 
-**What it does:** Massively increase the durability of your item
+Shoot 5 arrows at once
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** all
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 3`
-
-**Conflicts with:** unbreaking
+* **Applies to:** Bows, Crossbows
+* **Max level:** I
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Infinite Crossy, Multishot, Tripleshot
 
 </details>
 
 <details>
 
-<summary><strong>Instability</strong> <em>(Special)</em></summary>
+<summary><strong>Railgun</strong> <em>(Special, max I)</em></summary>
 
-**What it does:** Explosive arrows
+Fires an instant beam instead of a bolt, dealing 14 damage to the first enemy in a 48 block line. 20 second reload
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** bow, crossbow
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 3`
-
-**Conflicts with:** —
+* **Applies to:** Crossbows
+* **Max level:** I
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Infinite Crossy, Multishot, Pentashot, Piercing
 
 </details>
 
 <details>
 
-<summary><strong>Preservation</strong> <em>(Special)</em></summary>
+<summary><strong>Scythe</strong> <em>(Special, max I)</em></summary>
 
-**What it does:** Massively reduces incoming damage %placeholder%%
+Harvesting a fully grown crop also harvests the grown crops around it
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** armor
-
-**Max level:** 4
-
-**Scaling / placeholders:** `100 * (1 - (1 / (1 + (%level% * 0.05 * 1))))`
-
-**Conflicts with:** blast\_protection, fire\_protection, projectile\_protection, protection
+* **Applies to:** Hoes
+* **Max level:** I
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Spring</strong> <em>(Special)</em></summary>
+<summary><strong>Streamlining</strong> <em>(Special, max IV)</em></summary>
 
-**What it does:** Increases jump stength
+Gives a 5% / 10% / 15% / 20% boost to movement speed
 
-**Type:** Special
+* **Applies to:** Boots
+* **Max level:** IV
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Escape
 
-**Rarity:** Special
+</details>
 
-**Applies to:** boots
+#### Very Special
 
-**Max level:** 3
+<details>
 
-**Scaling / placeholders:** `%level% * 3`
+<summary><strong>Blast Mining</strong> <em>(Very Special, max III)</em></summary>
 
-**Conflicts with:** —
+20% / 40% / 60% chance to mine blocks in a 3x3 area
+
+* **Applies to:** Pickaxes
+* **Max level:** III
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Veinminer
 
 </details>
 
 <details>
 
-<summary><strong>Streamlining</strong> <em>(Special)</em></summary>
+<summary><strong>Force</strong> <em>(Very Special, max III)</em></summary>
 
-**What it does:** Increases movement speed %placeholder%%
+Arrows deal 2.65 / 2.8 / 2.95x damage. Replaces Power
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** boots
-
-**Max level:** 3
-
-**Scaling / placeholders:** `(100 * (1 - (1 + 0.1 + (%level% * 0.1)))) * -1`
-
-**Conflicts with:** —
+* **Applies to:** Bows
+* **Max level:** III
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Power
 
 </details>
 
 <details>
 
-<summary><strong>Volatile</strong> <em>(Special)</em></summary>
+<summary><strong>Gills</strong> <em>(Very Special, max I)</em></summary>
 
-**What it does:** %placeholder%% chance to have explosive sword attacks
+You can breathe underwater
 
-**Type:** Special
-
-**Rarity:** Special
-
-**Applies to:** sword
-
-**Max level:** 2
-
-**Scaling / placeholders:** `%level% * 5`
-
-**Conflicts with:** —
-
-</details>
-
-#### Very special
-
-<details>
-
-<summary><strong>Annihilate</strong> <em>(Veryspecial)</em></summary>
-
-**What it does:** Extreme knockback +%placeholder%%
-
-**Type:** Special
-
-**Rarity:** Veryspecial
-
-**Applies to:** sword, axe
-
-**Max level:** 3
-
-**Scaling / placeholders:** `20 * %level%`
-
-**Conflicts with:** grapple, knockback, tornado
+* **Applies to:** Helmets
+* **Max level:** I
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Bladed</strong> <em>(Veryspecial)</em></summary>
+<summary><strong>Lifesteal</strong> <em>(Very Special, max V)</em></summary>
 
-**What it does:** Trident deals %placeholder%% more damage
+Heals 5% / 10% / 15% / 20% / 25% of damage dealt
 
-**Type:** Special
-
-**Rarity:** Veryspecial
-
-**Applies to:** trident
-
-**Max level:** 5
-
-**Scaling / placeholders:** `100 * (0.2 * %level%)`
-
-**Conflicts with:** Abattoir, Arachnid, Serrated
+* **Applies to:** Swords
+* **Max level:** V
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Diseased</strong> <em>(Veryspecial)</em></summary>
+<summary><strong>Meteor</strong> <em>(Very Special, max I)</em></summary>
 
-**What it does:** %placeholder%% chance to apply poison and hunger to your opponent
+A mace hit after a long fall strikes lightning and sends out a large shockwave. 45 second cooldown
 
-**Type:** Special
-
-**Rarity:** Veryspecial
-
-**Applies to:** sword
-
-**Max level:** 3
-
-**Scaling / placeholders:** `%level% * 30`
-
-**Conflicts with:** Famine, Toxic
+* **Applies to:** Mace
+* **Max level:** I
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Force</strong> <em>(Veryspecial)</em></summary>
+<summary><strong>Phase</strong> <em>(Very Special, max I)</em></summary>
 
-**What it does:** Massive increase arrow damage
+Sneak and right-click to dash 6 blocks forward. 20 second cooldown
 
-**Type:** Special
-
-**Rarity:** Veryspecial
-
-**Applies to:** bow
-
-**Max level:** 5
-
-**Scaling / placeholders:** `%level% * 12`
-
-**Conflicts with:** power
+* **Applies to:** Swords
+* **Max level:** I
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Lifesteal</strong> <em>(Veryspecial)</em></summary>
+<summary><strong>Prosperity</strong> <em>(Very Special, max III)</em></summary>
 
-**What it does:** Heals %placeholder%% of damage dealt
+Gives 2 / 4 / 6 bonus health
 
-**Type:** Special
-
-**Rarity:** Veryspecial
-
-**Applies to:** sword, axe, trident
-
-**Max level:** 3
-
-**Scaling / placeholders:** `100 * (1 * (%level% * 0.15))`
-
-**Conflicts with:** —
+* **Applies to:** Armor
+* **Max level:** III
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Thrive
 
 </details>
 
 <details>
 
-<summary><strong>Pentashot</strong> <em>(Veryspecial)</em></summary>
+<summary><strong>Razor</strong> <em>(Very Special, max V)</em></summary>
 
-**What it does:** Shoot 5 arrows
+Adds 2 / 3 / 4 / 5 / 6 extra damage.
 
-**Type:** Special
-
-**Rarity:** Veryspecial
-
-**Applies to:** bow, crossbow
-
-**Max level:** 1
-
-**Scaling / placeholders:** `—`
-
-**Conflicts with:** Buckshot, Succession, Tripleshot
+* **Applies to:** Swords
+* **Max level:** V
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Bane of Arthropods, Ender Slayer, Sharpness, Smite
 
 </details>
 
 <details>
 
-<summary><strong>Prosperity</strong> <em>(Veryspecial)</em></summary>
+<summary><strong>Repairing</strong> <em>(Very Special, max III)</em></summary>
 
-**What it does:** Massive increase max health +%placeholder%
+Automatically gain 1 / 2 / 3 durability every 1.5 seconds
 
-**Type:** Special
-
-**Rarity:** Veryspecial
-
-**Applies to:** armor
-
-**Max level:** 3
-
-**Scaling / placeholders:** `2 * %level%`
-
-**Conflicts with:** Thrive
+* **Applies to:** Everything
+* **Max level:** III
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Mending
 
 </details>
 
 <details>
 
-<summary><strong>Razor</strong> <em>(Veryspecial)</em></summary>
+<summary><strong>Rewind</strong> <em>(Very Special, max I)</em></summary>
 
-**What it does:** Massively increases damage dealt by %placeholder%%
+When a hit leaves you below 2 hearts, you're sent back to where you were 5 seconds ago. 2 minute cooldown
 
-**Type:** Special
-
-**Rarity:** Veryspecial
-
-**Applies to:** sword, axe
-
-**Max level:** 8
-
-**Scaling / placeholders:** `%level% * 10`
-
-**Conflicts with:** bane\_of\_arthropods, Butchering, Defusion, ender\_slayer, Introversion, sharpness, smite
+* **Applies to:** Chestplates
+* **Max level:** I
+* **Found in:** Special crate, chest loot
 
 </details>
 
 <details>
 
-<summary><strong>Repairing</strong> <em>(Veryspecial)</em></summary>
+<summary><strong>Second Chance</strong> <em>(Very Special, max I)</em></summary>
 
-**What it does:** Automatically gain %amount% durability every %frequency% seconds
+When a hit leaves you on 1 heart or less, gain Regeneration IV for 3 seconds. 5 minute cooldown
 
-**Type:** Special
+* **Applies to:** Swords, Axes, Bows, Crossbows, Tridents, Hoes
+* **Max level:** I
+* **Found in:** Special crate, chest loot
 
-**Rarity:** Veryspecial
+</details>
 
-**Applies to:** all
+<details>
 
-**Max level:** 3
+<summary><strong>Soulbound</strong> <em>(Very Special, max I)</em></summary>
 
-**Scaling / placeholders:** `frequency: 1.5; amount: %level%`
+Keep this item on death
 
-**Conflicts with:** mending
+* **Applies to:** Everything
+* **Max level:** I
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Vanishing Curse
+
+</details>
+
+<details>
+
+<summary><strong>Superior</strong> <em>(Very Special, max II)</em></summary>
+
+Gives a 2% / 4% boost to all stats
+
+* **Applies to:** Armor
+* **Max level:** II
+* **Found in:** chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Warp Drive</strong> <em>(Very Special, max I)</em></summary>
+
+Teleports you to wherever your arrows land. Costs 1 Ender Pearl per teleport
+
+* **Applies to:** Bows
+* **Max level:** I
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Infinity, Mending
+
+</details>
+
+### Curses
+
+Curses only come from chest loot and can't be removed with a grindstone.
+
+<details>
+
+<summary><strong>Curse of Breaklessness</strong> <em>(Legendary, max I)</em></summary>
+
+Gives a 15% chance to fail to break blocks
+
+* **Applies to:** Axes, Hoes, Pickaxes, Shovels
+* **Max level:** I
+* **Found in:** chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Curse of Harmlessness</strong> <em>(Legendary, max I)</em></summary>
+
+Gives a 15% chance for attacks to do nothing
+
+* **Applies to:** Swords, Axes
+* **Max level:** I
+* **Found in:** chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Curse of Hunger</strong> <em>(Legendary, max I)</em></summary>
+
+Increases hunger loss by 50%
+
+* **Applies to:** Helmets
+* **Max level:** I
+* **Found in:** chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Curse of Misfortune</strong> <em>(Legendary, max I)</em></summary>
+
+Gives a 15% chance for blocks to not drop items
+
+* **Applies to:** Hoes, Shovels, Pickaxes, Axes
+* **Max level:** I
+* **Found in:** chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Curse of Permanence</strong> <em>(Legendary, max I)</em></summary>
+
+Prevents modifying this item in an anvil
+
+* **Applies to:** Everything
+* **Max level:** I
+* **Found in:** chest loot
 
 </details>

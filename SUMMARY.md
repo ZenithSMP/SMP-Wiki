@@ -17,5 +17,5 @@
 
 ## Additional
 
-* [Discord](https://zenithsmp.com/discord)
-* [Map](https://map.zenithsmp.com)
+* [Discord](https://zenithmc.gg/discord)
+* [Map](https://map.zenithmc.gg)

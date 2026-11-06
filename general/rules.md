@@ -20,13 +20,21 @@ metaLinks:
 
 # 📑 Rules
 
+### 1.0 General Gameplay
+
 #### 1.1 Unfair Gameplay Advantages
 
-This includes hacking, cheating, and exploiting glitches/bugs. The only allowed exploits are: Breaking the Nether Roof, Entering the Nether Roof, and Duping Active TNT. Pretending to hack is also punishable.
+This includes hacking, cheating, and exploiting glitches/bugs.
+
+The only allowed exploits are: Breaking the Nether Roof, Entering the Nether Roof, and Duping Active TNT.
+
+Pretending to hack is also punishable.
 
 #### 1.2 Griefing
 
-Griefing, or claiming/setting a home or pwarp within 4 chunks of a claim, without permission, is not allowed. Lava casting is not allowed anywhere on the server.
+Griefing, or claiming/setting a home or pwarp within 4 chunks of a claim, without permission, is not allowed.
+
+Lava casting is not allowed anywhere on the server.
 
 #### 1.3 Scamming
 
@@ -42,7 +50,9 @@ Trolling players or staff in a hurtful or annoying way is not allowed. Light-hea
 
 #### 1.6 Fair PvP
 
-Repeated targeting/harassment, teleporting with the intent to kill, and TP / portal traps are all disallowed. Pushing players outside of claims is not allowed.
+Repeated targeting/harassment, teleporting with the intent to kill, and TP / portal traps are all disallowed.
+
+Pushing players outside of claims is not allowed.
 
 ### 2.0 Chat & Communication
 
