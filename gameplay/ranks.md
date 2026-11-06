@@ -56,7 +56,7 @@ Each rank keeps the perks of the ranks below it.
 
 | Rank | Homes | Jobs | Auctions | Player warps | New perk |
 | --- | --: | --: | --: | --: | --- |
-| Guest | 1 | 3 | 1 | 0 | |
+| Guest | 1 | 1 | 1 | 0 | |
 | Member | 1 | 2 | 1 | 1 | `/xpb` to bottle your XP |
 | Novice | 2 | 2 | 2 | 2 | |
 | Adept | 2 | 3 | 2 | 2 | Armour stand editor (`/astools`), 10% spawner silk touch |
@@ -66,7 +66,7 @@ Each rank keeps the perks of the ranks below it.
 | Elite | 4 | 4 | 4 | 4 | 20% spawner silk touch |
 | Duke | 4 | 5 | 5 | 5 | `/rtp` cooldown 5 minutes |
 | Baron | 5 | 5 | 6 | 5 | `/anvil`, 25% spawner silk touch |
-| Lord | 5 | 6 | 7 | 6 | |
+| Lord | 5 | 6 | 7 | 6 | `/rtp` can send you 5,000 blocks further out (once the world border grows) |
 | Ardent | 6 | 7 | 8 | 6 | Pick a biome with `/rtp biome <biome>`, 35% spawner silk touch |
 
 **Spawner silk touch** is your chance to get a spawner back when you mine it with a silk touch pickaxe. Below Adept the chance is 0%.
