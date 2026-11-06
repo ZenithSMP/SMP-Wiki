@@ -59,31 +59,33 @@ Each rank keeps the perks of the ranks below it.
 | Guest | 1 | 3 | 1 | 0 | |
 | Member | 1 | 2 | 1 | 1 | `/xpb` to bottle your XP |
 | Novice | 2 | 2 | 2 | 2 | |
-| Adept | 2 | 3 | 2 | 2 | Armour stand editor (`/astools`) |
+| Adept | 2 | 3 | 2 | 2 | Armour stand editor (`/astools`), 10% spawner silk touch |
 | Squire | 2 | 3 | 3 | 3 | |
-| Hermit | 3 | 3 | 3 | 3 | `/rtp` cooldown 10 minutes (normally 15) |
+| Hermit | 3 | 3 | 3 | 3 | `/rtp` cooldown 10 minutes (normally 15), 15% spawner silk touch |
 | Denizen | 3 | 4 | 3 | 4 | `/stonecutter` |
-| Elite | 4 | 4 | 4 | 4 | |
+| Elite | 4 | 4 | 4 | 4 | 20% spawner silk touch |
 | Duke | 4 | 5 | 5 | 5 | `/rtp` cooldown 5 minutes |
-| Baron | 5 | 5 | 6 | 5 | `/anvil` |
+| Baron | 5 | 5 | 6 | 5 | `/anvil`, 25% spawner silk touch |
 | Lord | 5 | 6 | 7 | 6 | |
-| Ardent | 6 | 7 | 8 | 6 | Pick a biome with `/rtp biome <biome>` |
+| Ardent | 6 | 7 | 8 | 6 | Pick a biome with `/rtp biome <biome>`, 35% spawner silk touch |
+
+**Spawner silk touch** is your chance to get a spawner back when you mine it with a silk touch pickaxe. Below Adept the chance is 0%.
 
 ### Rank up rewards
 
-| Rank | Mythic Keys | Special Enchant Keys | Enchant Keys | Companion Keys |
-| --- | --: | --: | --: | --: |
-| Member | 1 | 1 | 2 | |
-| Novice | 1 | 1 | 2 | 1 |
-| Adept | 1 | 1 | 2 | |
-| Squire | 2 | 2 | 4 | 1 |
-| Hermit | 2 | 2 | 4 | |
-| Denizen | 2 | 2 | 4 | 1 |
-| Elite | 2 | 2 | 4 | |
-| Duke | 3 | 3 | 6 | 1 |
-| Baron | 3 | 3 | 6 | |
-| Lord | 3 | 3 | 6 | 1 |
-| Ardent | 3 | 3 | 6 | 1 |
+| Rank | Mythic Keys | Special Enchant Keys | Enchant Keys |
+| --- | --: | --: | --: |
+| Member | 1 | 1 | 2 |
+| Novice | 1 | 1 | 2 |
+| Adept | 1 | 1 | 2 |
+| Squire | 2 | 2 | 4 |
+| Hermit | 2 | 2 | 4 |
+| Denizen | 2 | 2 | 4 |
+| Elite | 2 | 2 | 4 |
+| Duke | 3 | 3 | 6 |
+| Baron | 3 | 3 | 6 |
+| Lord | 3 | 3 | 6 |
+| Ardent | 3 | 3 | 6 |
 
 ## Donor ranks
 
@@ -112,9 +114,9 @@ Donor ranks are a one time purchase from the [store](https://store.zenithmc.gg/c
 | `/condense` | ✔ | ✔ | ✔ | ✔ |
 | `/enderchest` | | | ✔ | ✔ |
 | Lounge warp (`/warp lounge`) | ✔ | ✔ | ✔ | ✔ |
-| Homes | 2 | 3 | 4 | 6 |
-| Jobs | 4 | 5 | 6 | 7 |
-| Auctions | 4 | 5 | 6 | 7 |
+| Homes | 2 | 3 | 4 |
+| Jobs | 4 | 5 | 6 |
+| Auctions | 4 | 5 | 6 |
 | Player warps | 8 | 11 | 14 | 14 |
 | Dye and glow your shop signs | | | | ✔ |
 | `/beezooka` | | | | ✔ |
@@ -124,7 +126,7 @@ Donor ranks are a one time purchase from the [store](https://store.zenithmc.gg/c
 
 | | VIP | MVP | Apex | Celestial |
 | --- | :-: | :-: | :-: | :-: |
-| Plots | 3 | 5 | 7 | 9 |
+| Plots | 3 | 5 | 7 |
 | WorldEdit | | | | ✔ |
 
 **Discord**
@@ -132,6 +134,7 @@ Donor ranks are a one time purchase from the [store](https://store.zenithmc.gg/c
 | | VIP | MVP | Apex | Celestial |
 | --- | :-: | :-: | :-: | :-: |
 | Sneak Peeks channel | ✔ | ✔ | ✔ | ✔ |
+| Name colours | | | 8 colours | 16 colours |
 
 ## Plus
 
