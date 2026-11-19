@@ -113,19 +113,6 @@ Get your arrow back every time you hit a mob or player
 
 <details>
 
-<summary><strong>Introversion</strong> <em>(Common, max V)</em></summary>
-
-Gives a 2.5 / 5 / 7.5 / 10 / 12.5 bonus to melee damage against players
-
-* **Applies to:** Swords
-* **Max level:** V
-* **Found in:** Weapons crate, chest loot
-* **Can't be combined with:** Bane of Arthropods, Brightness, Sharpness, Slaughter, Smite
-
-</details>
-
-<details>
-
 <summary><strong>Nourish</strong> <em>(Common, max III)</em></summary>
 
 3% / 6% / 9% chance for a harvested crop to restore half a hunger bar
@@ -145,7 +132,6 @@ Gives a 2.5 / 5 / 7.5 / 10 / 12.5 bonus to melee damage against passive mobs
 * **Applies to:** Swords
 * **Max level:** V
 * **Found in:** Weapons crate, chest loot
-* **Can't be combined with:** Bane of Arthropods, Brightness, Introversion, Sharpness, Smite
 
 </details>
 
@@ -173,6 +159,19 @@ Gives a 2% / 4% / 6% / 8% / 10% / 12% boost to Exploration experience
 * **Max level:** VI
 * **Found in:** chest loot
 * **Can't be combined with:** Enriched Plating
+
+</details>
+
+<details>
+
+<summary><strong>Air Brake</strong> <em>(Uncommon, max I)</em></summary>
+
+Crouch while gliding to halve your speed
+
+* **Applies to:** Elytra
+* **Max level:** I
+* **Found in:** Armour crate, chest loot
+* **Can't be combined with:** Gale Dash
 
 </details>
 
@@ -215,6 +214,18 @@ Gives a 12.5% / 25% / 37.5% / 50% boost to Alchemy experience
 
 <details>
 
+<summary><strong>Cold Blooded</strong> <em>(Uncommon, max II)</em></summary>
+
+Take 50% / 100% less freezing damage from powder snow
+
+* **Applies to:** Helmets
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
+
+</details>
+
+<details>
+
 <summary><strong>Combatant</strong> <em>(Uncommon, max III)</em></summary>
 
 Gives a 12.5% / 15% / 17.5% boost to Combat experience
@@ -227,13 +238,13 @@ Gives a 12.5% / 15% / 17.5% boost to Combat experience
 
 <details>
 
-<summary><strong>Crit Luck</strong> <em>(Uncommon, max III)</em></summary>
+<summary><strong>Crash Pad</strong> <em>(Uncommon, max III)</em></summary>
 
-Gives +4 / 8 / 12 Crit Chance
+Take 25% / 50% / 75% less damage from flying into walls
 
-* **Applies to:** Swords
+* **Applies to:** Elytra
 * **Max level:** III
-* **Found in:** chest loot
+* **Found in:** Armour crate, chest loot
 
 </details>
 
@@ -252,6 +263,18 @@ Deal 5% / 10% / 15% / 20% / 25% / 30% extra damage at day
 
 <details>
 
+<summary><strong>Ember Soles</strong> <em>(Uncommon, max II)</em></summary>
+
+Take 50% / 100% less damage from magma blocks and campfires
+
+* **Applies to:** Boots
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
+
+</details>
+
+<details>
+
 <summary><strong>Ender Slayer</strong> <em>(Uncommon, max VI)</em></summary>
 
 Gives a 1.5 / 2 / 2.5 / 3 / 3.5 / 4 bonus to melee damage against end mobs
@@ -259,6 +282,7 @@ Gives a 1.5 / 2 / 2.5 / 3 / 3.5 / 4 bonus to melee damage against end mobs
 * **Applies to:** Swords, Axes
 * **Max level:** VI
 * **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Razor
 
 </details>
 
@@ -284,6 +308,7 @@ Increases damage dealt by 0.2% / 0.4% / 0.6% / 0.8% / 1% for each percent of hea
 * **Applies to:** Swords, Axes
 * **Max level:** V
 * **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** First Strike, Goliath
 
 </details>
 
@@ -291,11 +316,12 @@ Increases damage dealt by 0.2% / 0.4% / 0.6% / 0.8% / 1% for each percent of hea
 
 <summary><strong>First Strike</strong> <em>(Uncommon, max V)</em></summary>
 
-Deal 50% / 70% / 90% / 110% / 130% more damage against victims on max health
+Deal 10% / 15% / 20% / 25% / 30% more damage against victims on max health
 
 * **Applies to:** Swords, Axes
 * **Max level:** V
 * **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Finishing, Goliath
 
 </details>
 
@@ -387,6 +413,30 @@ Gives a 10% / 20% / 30% / 40% / 50% boost to Enchanting experience
 
 <details>
 
+<summary><strong>Sure-Footed</strong> <em>(Uncommon, max III)</em></summary>
+
+Gives 5% / 10% / 15% knockback resistance
+
+* **Applies to:** Boots
+* **Max level:** III
+* **Found in:** Armour crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Thornproof</strong> <em>(Uncommon, max I)</em></summary>
+
+Cactus and berry bushes no longer hurt you
+
+* **Applies to:** Leggings
+* **Max level:** I
+* **Found in:** Armour crate, chest loot
+
+</details>
+
+<details>
+
 <summary><strong>Wisdom</strong> <em>(Uncommon, max III)</em></summary>
 
 Increases dropped experience by 20% / 40% / 60%
@@ -431,18 +481,6 @@ Deal 10% / 20% / 30% / 40% / 50% / 60% / 70% / 80% more damage against bosses
 Gives a 5% / 10% / 15% bonus to attack speed while sprinting
 
 * **Applies to:** Swords
-* **Max level:** III
-* **Found in:** Weapons crate, chest loot
-
-</details>
-
-<details>
-
-<summary><strong>Cerebral</strong> <em>(Rare, max III)</em></summary>
-
-Increases headshot damage by 10% / 20% / 30%
-
-* **Applies to:** Bows, Crossbows, Tridents
 * **Max level:** III
 * **Found in:** Weapons crate, chest loot
 
@@ -498,18 +536,6 @@ Gives a 1% / 2% / 3% / 4% / 5% / 6% chance of blinding your opponent
 
 <details>
 
-<summary><strong>Forceful Crit</strong> <em>(Rare, max VI)</em></summary>
-
-Gives +5 / 7 / 9 / 11 / 13 / 15 Crit Damage
-
-* **Applies to:** Swords
-* **Max level:** VI
-* **Found in:** chest loot
-
-</details>
-
-<details>
-
 <summary><strong>Getaway</strong> <em>(Rare, max II)</em></summary>
 
 Gain a 10% / 20% bonus to movement speed below 20% health
@@ -524,11 +550,12 @@ Gain a 10% / 20% bonus to movement speed below 20% health
 
 <summary><strong>Goliath</strong> <em>(Rare, max VI)</em></summary>
 
-Deal 0.6 / 0.7 / 0.8 / 0.9 / 1 / 1.1x more damage for each times your opponent has more health than you, up to 2 / 2.4 / 2.8 / 3.2 / 3.6 / 4x
+Deal up to 25% / 30% / 35% / 40% / 45% / 50% more damage to opponents who have more health than you
 
 * **Applies to:** Swords
 * **Max level:** VI
 * **Found in:** Weapons crate, chest loot
+* **Can't be combined with:** Finishing, First Strike
 
 </details>
 
@@ -546,18 +573,6 @@ Chop down up to 4 / 8 / 12 / 16 / 20 / 24 blocks of a tree at once
 
 <details>
 
-<summary><strong>Might</strong> <em>(Rare, max IV)</em></summary>
-
-Gives +3 / 7 / 11 / 15 Strength
-
-* **Applies to:** Swords
-* **Max level:** IV
-* **Found in:** chest loot
-
-</details>
-
-<details>
-
 <summary><strong>Ninja</strong> <em>(Rare, max V)</em></summary>
 
 Deal +1 / 1.5 / 2 / 2.5 / 3 damage while sneaking
@@ -570,18 +585,6 @@ Deal +1 / 1.5 / 2 / 2.5 / 3 damage while sneaking
 
 <details>
 
-<summary><strong>Overload</strong> <em>(Rare, max VII)</em></summary>
-
-Gives +1 / 2 / 3 / 4 / 5 / 6 / 7 Crit Chance and +1 / 2 / 3 / 4 / 5 / 6 / 7 Crit Damage
-
-* **Applies to:** Bows, Crossbows
-* **Max level:** VII
-* **Found in:** chest loot
-
-</details>
-
-<details>
-
 <summary><strong>Rocket Saver</strong> <em>(Rare, max III)</em></summary>
 
 Gives a 20% / 40% / 60% chance to not consume fireworks when boosting
@@ -589,6 +592,7 @@ Gives a 20% / 40% / 60% chance to not consume fireworks when boosting
 * **Applies to:** Elytra
 * **Max level:** III
 * **Found in:** Armour crate, chest loot
+* **Can't be combined with:** Gale Dash
 
 </details>
 
@@ -637,30 +641,6 @@ Decreases sprinting hunger loss by 20% / 40% / 60% / 80%
 * **Applies to:** Chestplates
 * **Max level:** IV
 * **Found in:** Armour crate, chest loot
-
-</details>
-
-<details>
-
-<summary><strong>Steel String</strong> <em>(Rare, max III)</em></summary>
-
-Gives +5 / 7 / 9 Strength
-
-* **Applies to:** Bows, Crossbows
-* **Max level:** III
-* **Found in:** chest loot
-
-</details>
-
-<details>
-
-<summary><strong>Strongarm</strong> <em>(Rare, max II)</em></summary>
-
-Gives +6 / 10 Strength
-
-* **Applies to:** Tridents
-* **Max level:** II
-* **Found in:** chest loot
 
 </details>
 
@@ -717,6 +697,19 @@ Gain strength for 1.5 / 2 / 2.5 seconds when blocking hits
 
 <details>
 
+<summary><strong>Afterburner</strong> <em>(Epic, max II)</em></summary>
+
+Firework boosts are about 10% / 20% stronger
+
+* **Applies to:** Elytra
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
+* **Can't be combined with:** Gale Dash
+
+</details>
+
+<details>
+
 <summary><strong>Aftershock</strong> <em>(Epic, max III)</em></summary>
 
 Smash hits give Slowness II for 3 / 4 / 5 seconds to mobs and players within 4 blocks
@@ -760,6 +753,18 @@ Increases critical damage by 10% / 20% / 30%
 * **Applies to:** Swords, Axes
 * **Max level:** III
 * **Found in:** Weapons crate, chest loot
+
+</details>
+
+<details>
+
+<summary><strong>Deflection</strong> <em>(Epic, max III)</em></summary>
+
+10% / 20% / 30% chance to ignore projectile hits while gliding
+
+* **Applies to:** Elytra
+* **Max level:** III
+* **Found in:** Armour crate, chest loot
 
 </details>
 
@@ -877,18 +882,6 @@ Mining stone makes nearby ores glow for 3 seconds. I: coal, copper, iron. II: + 
 
 <details>
 
-<summary><strong>Petkeeper</strong> <em>(Epic, max IV)</em></summary>
-
-Gives a 1% / 2% / 3% / 4% boost to pet experience
-
-* **Applies to:** Armor
-* **Max level:** IV
-* **Found in:** chest loot
-
-</details>
-
-<details>
-
 <summary><strong>Poison Ivy</strong> <em>(Epic, max II)</em></summary>
 
 Poisons attackers for 0.5 / 1 seconds for each heart of damage dealt, up to 5 / 6 seconds
@@ -963,6 +956,19 @@ Gives a 121% / 167% / 215% boost to shulker drops
 
 <details>
 
+<summary><strong>Skyhunter</strong> <em>(Epic, max II)</em></summary>
+
+Arrows and tridents deal 20% / 40% more damage while you're gliding
+
+* **Applies to:** Elytra
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
+* **Can't be combined with:** Wyvern
+
+</details>
+
+<details>
+
 <summary><strong>Slipstream</strong> <em>(Epic, max III)</em></summary>
 
 Gives a 8% / 16% / 24% boost to movement speed while holding
@@ -1001,11 +1007,12 @@ Gives a 1% / 2% / 3% / 4% / 5% / 6% chance to strike 1 / 1 / 2 / 2 / 3 / 3 light
 
 <summary><strong>Wyvern</strong> <em>(Epic, max II)</em></summary>
 
-Gives a 10% / 20% bonus to melee damage
+Gives a 5% / 10% bonus to melee damage
 
 * **Applies to:** Elytra
 * **Max level:** II
 * **Found in:** Armour crate, chest loot
+* **Can't be combined with:** Skyhunter, Starfall
 
 </details>
 
@@ -1063,12 +1070,12 @@ Gives a 1.5% / 3% / 4.5% / 6% / 7.5% / 9% / 10.5% chance to cause your opponent 
 
 <summary><strong>Brightness</strong> <em>(Legendary, max V)</em></summary>
 
-Deal 4% / 8% / 12% / 16% / 20% more damage to the warden while in the deep dark
+Deals 4 / 8 / 12 / 16 / 20 bonus damage to the Warden while you are in the Deep Dark
 
 * **Applies to:** Swords
 * **Max level:** V
 * **Found in:** Weapons crate, chest loot
-* **Can't be combined with:** Bane of Arthropods, Introversion, Sharpness, Slaughter, Smite
+* **Can't be combined with:** Bane of Arthropods, Razor, Sharpness, Smite
 
 </details>
 
@@ -1098,6 +1105,18 @@ Gives a 5% / 10% chance to spawn a cloud of poison around where your trident lan
 
 <details>
 
+<summary><strong>Divebomb</strong> <em>(Legendary, max II)</em></summary>
+
+Hard landings deal 4 / 8 damage to mobs and players within 4 blocks. You take 25% / 50% less fall damage
+
+* **Applies to:** Elytra
+* **Max level:** II
+* **Found in:** Armour crate, chest loot
+
+</details>
+
+<details>
+
 <summary><strong>Excavation</strong> <em>(Legendary, max V)</em></summary>
 
 Digs 1 / 2 / 3 / 4 / 5 extra blocks
@@ -1105,6 +1124,7 @@ Digs 1 / 2 / 3 / 4 / 5 extra blocks
 * **Applies to:** Shovels
 * **Max level:** V
 * **Found in:** Tools crate, chest loot
+* **Can't be combined with:** Blast Mining
 
 </details>
 
@@ -1178,18 +1198,6 @@ Increases the hunger gained by eating food by 12.5% / 25%
 * **Applies to:** Chestplates
 * **Max level:** II
 * **Found in:** Armour crate, chest loot
-
-</details>
-
-<details>
-
-<summary><strong>Neptune</strong> <em>(Legendary, max III)</em></summary>
-
-Gives +30 / 40 / 50 to Crit Damage but reduces Crit Chance by 35% / 30% / 25%
-
-* **Applies to:** Tridents
-* **Max level:** III
-* **Found in:** chest loot
 
 </details>
 
@@ -1295,18 +1303,6 @@ Shoot 3 arrows instead of 1
 
 <details>
 
-<summary><strong>Vicious</strong> <em>(Legendary, max III)</em></summary>
-
-Gives +10 / 15 / 20 Ferocity
-
-* **Applies to:** Swords
-* **Max level:** III
-* **Found in:** chest loot
-
-</details>
-
-<details>
-
 <summary><strong>Wound</strong> <em>(Legendary, max VII)</em></summary>
 
 Gives a 3% / 6% / 9% / 12% / 15% / 18% / 21% chance to give your opponent 1 damage for 2.25 / 3 / 3.75 / 4.5 / 5.25 / 6 / 6.75 seconds
@@ -1315,22 +1311,6 @@ Gives a 3% / 6% / 9% / 12% / 15% / 18% / 21% chance to give your opponent 1 dama
 * **Max level:** VII
 * **Found in:** Weapons crate, chest loot
 * **Can't be combined with:** Power
-
-</details>
-
-### Spell Enchants
-
-Only one spell enchant can go on an item.
-
-<details>
-
-<summary><strong>Stimulating</strong> <em>(Legendary, max II)</em></summary>
-
-Gives a 10% / 20% bonus to all stats for 3 / 6 seconds
-
-* **Applies to:** Swords
-* **Max level:** II
-* **Found in:** chest loot
 
 </details>
 
@@ -1453,6 +1433,19 @@ Harvesting a fully grown crop also harvests the grown crops around it
 
 <details>
 
+<summary><strong>Starfall</strong> <em>(Special, max III)</em></summary>
+
+Your next melee hit within 3 seconds of a firework boost deals 10% / 20% / 30% more damage
+
+* **Applies to:** Elytra
+* **Max level:** III
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Wyvern
+
+</details>
+
+<details>
+
 <summary><strong>Streamlining</strong> <em>(Special, max IV)</em></summary>
 
 Gives a 5% / 10% / 15% / 20% boost to movement speed
@@ -1468,14 +1461,14 @@ Gives a 5% / 10% / 15% / 20% boost to movement speed
 
 <details>
 
-<summary><strong>Blast Mining</strong> <em>(Very Special, max III)</em></summary>
+<summary><strong>Blast Mining</strong> <em>(Very Special, max IV)</em></summary>
 
-20% / 40% / 60% chance to mine blocks in a 3x3 area
+25% / 50% / 75% / 100% chance to mine blocks in a 3x3 area
 
-* **Applies to:** Pickaxes
-* **Max level:** III
+* **Applies to:** Pickaxes, Shovels
+* **Max level:** IV
 * **Found in:** Special crate, chest loot
-* **Can't be combined with:** Veinminer
+* **Can't be combined with:** Excavation, Veinminer
 
 </details>
 
@@ -1489,6 +1482,19 @@ Arrows deal 2.65 / 2.8 / 2.95x damage. Replaces Power
 * **Max level:** III
 * **Found in:** Special crate, chest loot
 * **Can't be combined with:** Power
+
+</details>
+
+<details>
+
+<summary><strong>Gale Dash</strong> <em>(Very Special, max I)</em></summary>
+
+Double-tap crouch while gliding for a burst of speed in the direction you're flying. 2 minute cooldown
+
+* **Applies to:** Elytra
+* **Max level:** I
+* **Found in:** Special crate, chest loot
+* **Can't be combined with:** Afterburner, Air Brake, Rocket Saver
 
 </details>
 
@@ -1542,6 +1548,18 @@ Sneak and right-click to dash 6 blocks forward. 20 second cooldown
 
 <details>
 
+<summary><strong>Phoenix Wings</strong> <em>(Very Special, max I)</em></summary>
+
+When a hit leaves you on 2 hearts or less while gliding, gain Regeneration II and Fire Resistance and get lifted upward. 20 minute cooldown
+
+* **Applies to:** Elytra
+* **Max level:** I
+* **Found in:** Special crate, chest loot
+
+</details>
+
+<details>
+
 <summary><strong>Prosperity</strong> <em>(Very Special, max III)</em></summary>
 
 Gives 2 / 4 / 6 bonus health
@@ -1562,7 +1580,7 @@ Adds 2 / 3 / 4 / 5 / 6 extra damage.
 * **Applies to:** Swords
 * **Max level:** V
 * **Found in:** Special crate, chest loot
-* **Can't be combined with:** Bane of Arthropods, Ender Slayer, Sharpness, Smite
+* **Can't be combined with:** Bane of Arthropods, Brightness, Ender Slayer, Sharpness, Smite
 
 </details>
 
@@ -1613,18 +1631,6 @@ Keep this item on death
 * **Max level:** I
 * **Found in:** Special crate, chest loot
 * **Can't be combined with:** Vanishing Curse
-
-</details>
-
-<details>
-
-<summary><strong>Superior</strong> <em>(Very Special, max II)</em></summary>
-
-Gives a 2% / 4% boost to all stats
-
-* **Applies to:** Armor
-* **Max level:** II
-* **Found in:** chest loot
 
 </details>
 
